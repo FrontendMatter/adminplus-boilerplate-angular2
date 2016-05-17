@@ -1,0 +1,5 @@
+node_modules/
+typings/
+assets/css
+assets/js
+assets/vendor
